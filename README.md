@@ -42,7 +42,8 @@ Welcome to my GitHub repository! This space is dedicated to projects, insights, 
 
 🤝 Collaboration
 - I’m open to collaborating on projects related to SEO, business process optimization, and data analysis. If you have an interesting project or idea, feel free to reach out!
-📧 Contact
+
+ 📧 Contact
 - GitHub: [https://github.com/SerahBenjamin]
 - LinkedIn: [https://www.linkedin.com/in/serah-benjamin-44022a263/]
 - Email: [serahbenjamin90@gmail.com]

@@ -3,8 +3,8 @@
 ## Business Analyst & SEO Specialist
 Welcome to my GitHub repository! This space is dedicated to projects, insights, and tools related to Business Analysis (BA) and Search Engine Optimization (SEO). Here, you'll find resources, strategies, and implementations aimed at enhancing business processes and improving digital visibility.
 
- 🌱 - I’m currently learning Hubspot SEO Certification & Six Sigma Yellow Belt (CSSYB) !
- 🔭 - I’m currently working on Time Table Management System for School/College/University !
+ - 🌱  I’m currently learning Hubspot SEO Certification & Six Sigma Yellow Belt (CSSYB) !
+ - 🔭 I’m currently working on Time Table Management System for School/College/University !
   
 
 🛠 Skills & Expertise
